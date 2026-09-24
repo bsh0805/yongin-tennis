@@ -1,0 +1,16 @@
+{
+  "name": "용인 테니스 빈 코트",
+  "short_name": "용인테니스",
+  "description": "용인시 공공체육시설 테니스장 빈 코트를 날짜·시간대별로 한눈에",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#12181f",
+  "theme_color": "#12181f",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" }
+  ]
+}

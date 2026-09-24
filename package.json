@@ -1,0 +1,11 @@
+{
+  "name": "yongin-tennis-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.39.0"
+  }
+}

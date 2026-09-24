@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/courts.js": {
+      "includeFiles": "courts.json"
+    },
+    "api/slots.js": {
+      "maxDuration": 15
+    }
+  }
+}
